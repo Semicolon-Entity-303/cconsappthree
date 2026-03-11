@@ -1,7 +1,3 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="cconsapp3.vcxproj" />
-</Solution>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1232788697db57e4f2fde69cb011e1534a72d9a630bd322b742dec77408f8a1f
+size 164

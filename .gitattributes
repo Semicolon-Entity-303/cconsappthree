@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.cpp filter=lfs diff=lfs merge=lfs -text
+*.h filter=lfs diff=lfs merge=lfs -text
+*.vcxproj filter=lfs diff=lfs merge=lfs -text
+*.slnx filter=lfs diff=lfs merge=lfs -text
+C:/Users/ambru/source/repos/cconsapp3/cconsappthree/x64 filter=lfs diff=lfs merge=lfs -text
+C:/Users/ambru/source/repos/cconsapp3/cconsappthree/cconsapp3 filter=lfs diff=lfs merge=lfs -text
+*.vcxproj.filters filter=lfs diff=lfs merge=lfs -text
+*.vcxproj.user filter=lfs diff=lfs merge=lfs -text
