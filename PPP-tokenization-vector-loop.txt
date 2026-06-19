@@ -1,0 +1,6 @@
+for (int i = 0; i<tok.size(); ++i){
+         if (tok[i].kind=='*') {                  // we found a multiply!
+                 double d = tok[i−1].value*tok[i+1].value;
+                 // now what?
+         }
+}
